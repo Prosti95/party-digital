@@ -123,6 +123,12 @@
          "id":18,
          "name":"Music",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/obs.ninja\/?view=Partyisonline-music"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
