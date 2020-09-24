@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/party-is.online\/ladelink"
+                 "value":"https:\/\/party-is.online\/ladelink"
                 }],
          "type":"tilelayer",
          "visible":true,
