@@ -1027,8 +1027,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":385,
-         "source":"..\/..\/workadventure-develop\/workadventure-develop\/tilesets_deviant_milkian_1.json"
+         "image":"..\/..\/workadventure-map-starter-kit-master\/workadventure-map-starter-kit-master\/tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
