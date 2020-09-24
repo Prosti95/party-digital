@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/party-is.online\/ladelink"
+                 "value":"https:\/\/party-is.online\/ladelinks"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -105,6 +105,12 @@
          "id":21,
          "name":"welcome",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/party-is.online\/welcome"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
