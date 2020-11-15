@@ -1,0 +1,24 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"a",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.4.2",
+ "tileheight":9228,
+ "tiles":[
+        {
+         "id":0,
+         "image":"rect1201.png",
+         "imageheight":9228,
+         "imagewidth":13881
+        }],
+ "tilewidth":13881,
+ "type":"tileset",
+ "version":1.4
+}
