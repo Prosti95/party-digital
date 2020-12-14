@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"welcome"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Floor1\/floor1.json"
+                 "value":"\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
