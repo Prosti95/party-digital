@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"map.json"
+         "format":"json"
         }
     },
  "height":34,
@@ -145,7 +144,7 @@
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
- "tileheight":32,
+ "tileheight":16,
  "tilesets":[
         {
          "columns":16,
@@ -895,7 +894,7 @@
                 }],
          "tilewidth":32
         }],
- "tilewidth":32,
+ "tilewidth":16,
  "type":"map",
  "version":1.4,
  "width":46
