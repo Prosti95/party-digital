@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/party-is.online\/pad"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +187,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"htt"
+                 "value":"https:\/\/party-is.online\/game"
                 }],
          "type":"tilelayer",
          "visible":true,
