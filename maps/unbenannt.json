@@ -119,7 +119,7 @@
         {
          "columns":17,
          "firstgid":1,
-         "image":"Tilesets\/houseinteriorstilesetpack\/mp_house_interiors_tileset_pack\/living_room.png",
+         "image":"Tilesets\/living_room.png",
          "imageheight":192,
          "imagewidth":272,
          "margin":0,
@@ -132,7 +132,7 @@
         {
          "columns":20,
          "firstgid":205,
-         "image":"Tilesets\/houseinteriorstilesetpack\/mp_house_interiors_tileset_pack\/walls_background.png",
+         "image":"Tilesets\/walls_background.png",
          "imageheight":464,
          "imagewidth":320,
          "margin":0,
