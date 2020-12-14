@@ -4444,8 +4444,17 @@
          "tilewidth":16
         }, 
         {
+         "columns":48,
          "firstgid":3753,
-         "source":"..\/xmas.json"
+         "image":"..\/Tilesets\/xmas.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"xmas",
+         "spacing":0,
+         "tilecount":2304,
+         "tileheight":16,
+         "tilewidth":16
         }],
  "tilewidth":16,
  "type":"map",
