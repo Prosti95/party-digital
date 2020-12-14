@@ -4240,6 +4240,19 @@
                         }]
                 }],
          "tilewidth":16
+        }, 
+        {
+         "columns":12,
+         "firstgid":1933,
+         "image":"Tilesets\/schwarzesbrett.png",
+         "imageheight":192,
+         "imagewidth":384,
+         "margin":0,
+         "name":"schwarzesbrett",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":16,
  "type":"map",
