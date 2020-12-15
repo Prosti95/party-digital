@@ -4659,8 +4659,17 @@
          "tilewidth":16
         }, 
         {
+         "columns":32,
          "firstgid":13101,
-         "source":"..\/freizeit.json"
+         "image":"Tilesets\/freizeit.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"freizeit",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":16,
+         "tilewidth":16
         }, 
         {
          "columns":32,
